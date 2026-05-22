@@ -94,5 +94,9 @@ npx expo start
 
 ---
 
+# 🎥 Demo Video
+
+https://youtu.be/FDKzAOxt-c4
+
 
 Built using React Native + Expo 
